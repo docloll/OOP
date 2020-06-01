@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\OOП\Сергеева\pract1\SchoolOlympiads.DesktopClient\obj\Debug\netcoreapp3.1\SchoolOlympiads.DesktopClient.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\OOП\Сергеева\pract1\SchoolOlympiads.DesktopClient\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ASUS\Desktop\OOП\Сергеева\pract1\SchoolOlympiads.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ASUS\Desktop\OOП\Сергеева\pract1\SchoolOlympiads.DesktopClient\obj\Debug\netcoreapp3.1\SchoolOlympiads.DesktopClient_MarkupCompile.cache
+C:\Users\ASUS\Desktop\OOП\Сергеева\pract1\SchoolOlympiads.DesktopClient\obj\Debug\netcoreapp3.1\SchoolOlympiads.DesktopClient_MarkupCompile.lref
